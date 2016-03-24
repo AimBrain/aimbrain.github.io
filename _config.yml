@@ -1,6 +1,6 @@
 # Site settings
 title:       AimBrain
-email:       stathis@AimBrain.com
+email:       stathis@aimbrain.com
 author:      Team AimBrain
 description: "AimBrain is the mobile biometric authentication platform."
 baseurl:     "/aimbrain.github.io"
